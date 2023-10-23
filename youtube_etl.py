@@ -10,7 +10,7 @@ from dateutil import parser
 def youtube_data_analysis():
 
     # https://developers.google.com/youtube/v3/docs
-    api_key = "AIzaSyApYt112vr-Iq2xxLSnNGuFJ0NtywS11oU"
+    api_key = "your_api_key"
 
     api_service_name = "youtube"
     api_version = "v3"
